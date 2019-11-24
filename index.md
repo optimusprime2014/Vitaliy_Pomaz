@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/optimusprime2014/Vitaliy_Pomaz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+|email|**viltaliy.pomaz@gmail.com**|
+|---|---|
+|mobile|**+38 (066) 801-80-81**|
+|skype|**volunteer1983**|
+|location|**Ukraine, c.Poltava**|
+|date of birh|**30.12.1983**|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Position
+Software developer (`Java`, `Salesforce/Apex`)
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|||
+|---|---|
+|Language|Java, Apex|
+|CRMs|Salesforce+|
+|Skills|Java Core, Android SDK, DataStructure, OOP, UML, Spring Frameworks (MVC, IoC, Boot, Cloud), RESTfull API|
+|Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
+|OS|Windows, Linux|
+|Support tools|Git, Jenkins, ElasticLogstashKibana, AWS|
+|Builders|Maven, Gradle|
+|Other technologies|Javascript (Angular 1, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
 
-```markdown
-Syntax highlighted code block
+## Commercial experience
+* 11.2019-present - **Software Salesforce developer**
+  >- development applications (`Salesforce`), *IQVIA*
+* 04.2018-11.2019 – **Java developer:** (`+DevOps`), *RGS, RGS2, TouchCore*
+  >- development and deployment new versions of back-end applications
+  >- development and deployment front-side (`angular`) for Admin-panel of game-servers
+  >- database administration current RDBMS (`mysql`)
+  >- deployment monitoring and aggregation tools (`ELK`)
+  >- resolving support issues
+* 06.2017-12.2018 – **FullStack developer:** *GenexSeed CRM, Agropoly*
+  >- development and deployment new versions of back-end applications
+  >- development and deployment front-side (`thymeleaf`)
+  >- development and deployment android-applications (`java+room+retrofit2+etc`)
+  >- database administration current RDBMS (`postgresql`)
+  >- resolving support issues
+* 04.2016-10.2016 – **Java developer:** (`+Android SDK`) *Everyday*
+  >- adding new functionalities for application
+  >- resolving support issues
+* 11.2015-04.2016 - **Freelance:** *Puneet, Att*
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+|Name|Period|Description|Stack|Links|
+|---|---|---|---|---|
+|IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|...|
+|Self-education|11.2019-present|Retraining|`Apex`|...|
+|TouchCore|07.2019-present|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|...|
+|RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|...|
+|Agropoly|01.2019-09.2019|Agro polygon viewer (using GenexSeed server api)|`Vue, leaflet, AgroAPI`|...|
+|GenexSeed|06.2017-12.2018|Mini-CRM for agricultural company (restServer+Web+Android)|`Java, Spring Boot, JPA, PostgreSQL, Lombok, Junit, Spring MVC, Thymeleaf, Spring Security, Bootstrap, Apache POI, Android SDK, Java, Retrofit, Picasso, RxJava, Realm, Room`|[Back](https://github.com/optimusprime2014/gnxsd-server) [Front](https://github.com/optimusprime2014/gnxsd-web)|
+|Everyday|04.2016-10.2016|Health & Fitness (support)|`Android SDK, Java, Retrofit, Dagger, Picasso, Flury`|[Everyday](https://play.google.com/store/apps/details?id=ua.mk.diet )|
+|Freelance|11.2015-04.2016||`Java, Android SDK`|...|
 
-1. Numbered
-2. List
+## Education
+09.2007-09.2008
+- Poltava state pedagogical university
+  - Master’s Degree `Computer science, Physics`
 
-**Bold** and _Italic_ and `Code` text
+09.2000-07.2005
+- Poltava state pedagogical university
+  - Specialist `Computer science, Physics, Safehealth, Psychology`
 
-[Link](url) and ![Image](src)
-```
+## Certificates
+01.2017-03.2017
+- Specialist level of Java `SoftGroup` Certification Centre
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+09.2016-12.2016
+- Foundations of programming (`Harvard CS50`) cource
 
-### Jekyll Themes
+## Languages
+Ukrainian
+- native
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/optimusprime2014/Vitaliy_Pomaz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Russian
+- native
 
-### Support or Contact
+English
+- intermediate `read tech literature, write docs, participate in  conversations`
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
