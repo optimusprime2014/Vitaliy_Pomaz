@@ -17,6 +17,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |CRMs|Salesforce+|
 |Skills|Java Core, Android SDK, DataStructure, OOP, UML, Spring Frameworks (MVC, IoC, Boot, Cloud), RESTfull API|
 |Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
+|APIs|TelegramBot|
 |OS|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana, AWS|
 |Builders|Maven, Gradle|
