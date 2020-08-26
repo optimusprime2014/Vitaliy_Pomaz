@@ -45,22 +45,22 @@ Software developer (`Java`, `Salesforce/Apex`)
 
 ## Commercial projects
 
-|Name|Period|Description|Stack|Links|
-|---|---|---|---|---|
-|IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|...|
-|Self-education|11.2019-present|Retraining|`Apex`|...|
-|TouchCore|07.2019-present|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|...|
-|RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|...|
-|Agropoly|01.2019-09.2019|Agro polygon viewer (using GenexSeed server api)|`Vue, leaflet, AgroAPI`|...|
-|GenexSeed|06.2017-12.2018|Mini-CRM for agricultural company (restServer+Web+Android)|`Java, Spring Boot, JPA, PostgreSQL, Lombok, Junit, Spring MVC, Thymeleaf, Spring Security, Bootstrap, Apache POI, Android SDK, Java, Retrofit, Picasso, RxJava, Realm, Room`|...|
-|Everyday|04.2016-10.2016|Health & Fitness (support)|`Android SDK, Java, Retrofit, Dagger, Picasso, Flury`|[Everyday](https://play.google.com/store/apps/details?id=ua.mk.diet )|
-|Freelance|11.2015-04.2016||`Java, Android SDK`|...|
+|Name|Period|Description|Stack|
+|---|---|---|---|
+|IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
+|Self-education|11.2019-present|Retraining|`Apex`|
+|TouchCore|07.2019-present|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
+|RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|
+|Agropoly|01.2019-09.2019|Agro polygon viewer (using GenexSeed server api)|`Vue, leaflet, AgroAPI`|
+|GenexSeed|06.2017-12.2018|Mini-CRM for agricultural company (restServer+Web+Android)|`Java, Spring Boot, JPA, PostgreSQL, Lombok, Junit, Spring MVC, Thymeleaf, Spring Security, Bootstrap, Apache POI, Android SDK, Java, Retrofit, Picasso, RxJava, Realm, Room`|
+|[Everyday](https://play.google.com/store/apps/details?id=ua.mk.diet )|04.2016-10.2016|Health & Fitness (support)|`Android SDK, Java, Retrofit, Dagger, Picasso, Flury`|
+|Freelance|11.2015-04.2016||`Java, Android SDK`|
 
 ## Pet projects
 
-|Name|Period|Description|Stack|Links|
-|---|---|---|---|---|
-|TestName|12.2019-01.2020|CRM apps|`Java`|[link](https://example.com)|
+|Name|Period|Description|Stack|
+|---|---|---|---|
+|[TestName](https://example.com)|12.2019-01.2020|CRM apps|`Java`|
 
 ## Education
 09.2007-09.2008
