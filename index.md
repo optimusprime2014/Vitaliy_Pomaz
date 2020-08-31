@@ -60,7 +60,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 
 |Name|Period|Description|Stack|
 |---|---|---|---|
-|[Draftviewo](https://github.com/optimusprime2014/draftviewer) [demo](http://162.250.120.118:8001)|09.2020|Spring Boot application what provides quick analysis project from zip archive.|`Java 8, PostgreSQL, Vue`|
+|[Draftviewo](https://github.com/optimusprime2014/draftviewer) [demo](http://162.250.120.118:8001)|09.2020|Spring Boot application what provides quick analysis project from zip archive.|`Java 8, SpringBoot, PostgreSQL, Vue`|
 |[Worker](https://github.com/optimusprime2014/Worker) [demo](http://162.250.120.118:8002/swagger-ui.html)|08.2020|Spring Boot application what provides RESTfull service for CRUD operations for company employees. Show relations between members and company.|`Java 11, ArangoDB, SpringBoot, Swagger2, jgrapht`|
 
 ## Education
