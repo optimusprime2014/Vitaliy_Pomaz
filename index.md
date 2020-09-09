@@ -49,7 +49,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |---|---|---|---|
 |IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
 |Self-education|11.2019-08.2020|Retraining|`Salesforce+`|
-|TouchCore|07.2019-present|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
+|TouchCore|07.2019-02.2020|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
 |RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|
 |Agropoly|01.2019-09.2019|Agro polygon viewer (using GenexSeed server api)|`Vue, leaflet, AgroAPI`|
 |GenexSeed|06.2017-12.2018|Mini-CRM for agricultural company (restServer+Web+Android)|`Java, Spring Boot, JPA, PostgreSQL, Lombok, Junit, Spring MVC, Thymeleaf, Spring Security, Bootstrap, Apache POI, Android SDK, Java, Retrofit, Picasso, RxJava, Realm, Room`|
