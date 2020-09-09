@@ -21,7 +21,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |OS|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana, AWS|
 |Builders|Maven, Gradle|
-|Other technologies|Javascript (Angular 1, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
+|Other technologies|Javascript (Angular, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
 
 ## Commercial experience
 * 11.2019-present - **Software Salesforce developer**
@@ -48,7 +48,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |Name|Period|Description|Stack|
 |---|---|---|---|
 |IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
-|Self-education|11.2019-present|Retraining|`Apex`|
+|Self-education|11.2019-08.2020|Retraining|`Apex`|
 |TouchCore|07.2019-present|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
 |RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|
 |Agropoly|01.2019-09.2019|Agro polygon viewer (using GenexSeed server api)|`Vue, leaflet, AgroAPI`|
