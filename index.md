@@ -24,7 +24,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |Other technologies|Javascript (Angular, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
 
 ## Commercial experience
-* 11.2019-present - **Software Salesforce developer**
+* 12.2019-present - **Software Salesforce developer**
   >- development applications (`Salesforce`), *IQVIA*
 * 04.2018-11.2019 – **Java developer:** (`+DevOps`), *RGS, RGS2, TouchCore*
   >- development and deployment new versions of back-end applications
