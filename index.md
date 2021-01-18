@@ -1,5 +1,5 @@
 
-|email|**viltaliy.pomaz@gmail.com**|
+|email|**vitaliy.pomaz@gmail.com**|
 |---|---|
 |mobile|**+38 (066) 801-80-81**|
 |skype|**volunteer1983**|
