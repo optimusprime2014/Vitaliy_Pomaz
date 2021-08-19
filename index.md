@@ -3,7 +3,7 @@
 |---|---|
 |mobile|**+38 (066) 801-80-81**|
 |skype|**volunteer1983**|
-|location|**Ukraine, c.Poltava**|
+|location|**Ukraine, Poltava**|
 |date of birh|**30.12.1983**|
 
 ## Position
