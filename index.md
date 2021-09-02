@@ -73,6 +73,9 @@ Software developer (`Java`, `Salesforce/Apex`)
   - Specialist `Computer science, Physics, Safehealth, Psychology`
 
 ## Certificates
+07.2021
+- `Salesforce` Platform Developer I
+
 01.2017-03.2017
 - Specialist level of Java `SoftGroup` Certification Centre
 
