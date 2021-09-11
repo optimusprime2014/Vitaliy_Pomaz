@@ -1,5 +1,5 @@
 
-|linkedin|[Vitalii Pomaz](https://www.linkedin.com/in/vitaliy-p-000936b7)|
+|linkedin|[Vitalii_Pomaz](https://www.linkedin.com/in/vitaliy-p-000936b7)|
 |---|---|
 |mobile|**+38 (066) 801-80-81**|
 |email|**vitaliy.pomaz@gmail.com**|
