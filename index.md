@@ -1,9 +1,9 @@
 
-|linkedin|[Vitalii Pomaz](https://www.linkedin.com/in/vitaliy-p-000936b7)|
+|linkedin|[Vitalii Pomaz_LinkedIN](https://www.linkedin.com/in/vitaliy-p-000936b7)|
 |---|---|
 |mobile|**+38 (066) 801-80-81**|
 |email|**vitaliy.pomaz@gmail.com**|
-|location|**Earth, Ukraine, Poltava**|
+|location|**Ukraine, Poltava**|
 |date of birh|**30.12.1983**|
 
 ## Position
