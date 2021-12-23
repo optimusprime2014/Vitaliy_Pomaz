@@ -74,6 +74,9 @@ Software developer (`Java`, `Salesforce/Apex`)
   - Specialist `Computer science, Physics, Safehealth, Psychology`
 
 ## Certificates
+12.2021
+- `Salesforce` Platform App Builder
+
 07.2021
 - `Salesforce` Platform Developer I
 
