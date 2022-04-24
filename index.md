@@ -24,7 +24,9 @@ Software developer (`Java`, `Salesforce/Apex`)
 |Other technologies|Javascript (Angular, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
 
 ## Commercial experience
-* 12.2019-present - **Software Salesforce developer**
+* 01.2022-present - **Certified Software Salesforce developer**
+  >- development applications (`Salesforce`), *Loan-finance sphere*
+* 12.2019-01.2022 - **Software Salesforce developer**
   >- development applications (`Salesforce`), *IQVIA*
 * 04.2018-11.2019 – **Java developer:** (`+DevOps`), *RGS, RGS2, TouchCore*
   >- development and deployment new versions of back-end applications
@@ -47,7 +49,8 @@ Software developer (`Java`, `Salesforce/Apex`)
 
 |Name|Period|Description|Stack|
 |---|---|---|---|
-|IQVIA|12.2019-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
+|Loan-finance sphere|01.2022-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
+|IQVIA|12.2019-01.2022|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
 |Self-education|11.2019-08.2020|Retraining|`Salesforce+`|
 |TouchCore|07.2019-02.2020|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
 |RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|
@@ -91,7 +94,7 @@ Ukrainian
 - native
 
 Russian
-- native
+- Advanced
 
 English
 - intermediate `read tech literature, write docs, participate in  conversations`
