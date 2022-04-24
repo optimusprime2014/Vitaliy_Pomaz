@@ -3,17 +3,17 @@
 |---|---|
 |mobile|**+38 (066) 801-80-81**|
 |email|**vitaliy.pomaz@gmail.com**|
-|location|**Ukraine, Poltava**|
-|date of birh|**30.12.1983**|
+|location|**Ukraine**|
+
 
 ## Position
-Software developer (`Java`, `Salesforce/Apex`)
+Software developer (`Salesforce/Apex`, `Java`)
 
 ## Skills
 
 |||
 |---|---|
-|Language|Java, Apex|
+|Language|Apex, Javascript, Java|
 |CRMs|Salesforce+|
 |Skills|Java Core, Android SDK, DataStructure, OOP, UML, Spring Frameworks (MVC, IoC, Boot, Cloud), RESTfull API|
 |Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
@@ -21,7 +21,7 @@ Software developer (`Java`, `Salesforce/Apex`)
 |OS|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana, AWS|
 |Builders|Maven, Gradle|
-|Other technologies|Javascript (Angular, Vue), XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
+|Other technologies|Javascript (Angular, Vue), Python, XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
 
 ## Commercial experience
 * 01.2022-present - **Certified Software Salesforce developer**
