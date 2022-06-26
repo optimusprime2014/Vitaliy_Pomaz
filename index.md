@@ -59,14 +59,6 @@ Software developer (`Salesforce/Apex`, `Java`)
 |[Everyday](https://play.google.com/store/apps/details?id=ua.mk.diet )|04.2016-10.2016|Health & Fitness (support)|`Android SDK, Java, Retrofit, Dagger, Picasso, Flury`|
 |Freelance|11.2015-04.2016||`Java, Android SDK`|
 
-## Pet projects
-
-|Name|Period|Description|Stack|
-|---|---|---|---|
-|[IO breathing](https://github.com/optimusprime2014/io_breathing) [demo](http://162.250.120.118:8006)|10.2021|Vue application that helps to increase scale of breath for divers and underwater hunters.|`Vue`|
-|[Ex-helper](https://github.com/optimusprime2014/exchange-currency-helper) [demo](http://162.250.120.118:8004)|11.2020|Vue application provides simple way to convert currencies to UAH via bank.gov.ua API by chosen date.|`Vue`|
-|[Worker](https://github.com/optimusprime2014/Worker) [demo](http://162.250.120.118:8002/swagger-ui.html)|08.2020|Spring Boot application what provides RESTfull service for CRUD operations for company employees. Show relations between members and company.|`Java 11, ArangoDB, SpringBoot, Swagger2, jgrapht`|
-
 ## Education
 09.2007-09.2008
 - Poltava state pedagogical university
