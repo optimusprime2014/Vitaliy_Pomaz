@@ -85,9 +85,6 @@ Software developer (`Salesforce/Apex`, `Java`)
 Ukrainian
 - native
 
-Russian
-- Advanced
-
 English
 - intermediate `read tech literature, write docs, participate in  conversations`
 
