@@ -7,21 +7,30 @@
 
 
 ## Position
-Software developer (`Salesforce/Apex`, `Java`)
+Software developer (`Salesforce`)
 
 ## Skills
 
 |||
 |---|---|
 |Language|Apex, Javascript, Java|
-|CRMs|Salesforce+|
-|Skills|Java Core, Android SDK, DataStructure, OOP, UML, Spring Frameworks (MVC, IoC, Boot, Cloud), RESTfull API|
-|Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
-|APIs|TelegramBot|
+|CRMs|Salesforce+ (Apex, LWC, Aura, VF, SOQL/SOSL, Admin tools etc)|
+|App Platforms|Oracle APEX (PL/SQL)|
+|Skills|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
+|Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, Redis, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
 |OS|Windows, Linux|
-|Support tools|Git, Jenkins, ElasticLogstashKibana, AWS|
+|Support tools|Git, Jenkins, ElasticLogstashKibana (ELK), AWS, Oracle cloud, Google cloud|
 |Builders|Maven, Gradle|
-|Other technologies|Javascript (Angular, Vue), Python, XML, JSON, PHP, VBA, HTML, CSS, bash (+awk, sed)|
+|Other technologies| Angular, Vue, Python, XML, JSON, PHP, VBA, HTML, CSS, bash|
+
+
+## Certificates
+12.2021
+- `Salesforce` Platform App Builder
+
+07.2021
+- `Salesforce` Platform Developer I
+
 
 ## Commercial experience
 * 01.2022-present - **Certified Software Salesforce developer**
@@ -68,13 +77,7 @@ Software developer (`Salesforce/Apex`, `Java`)
 - Poltava state pedagogical university
   - Specialist `Computer science, Physics, Safehealth, Psychology`
 
-## Certificates
-12.2021
-- `Salesforce` Platform App Builder
-
-07.2021
-- `Salesforce` Platform Developer I
-
+## Courses
 01.2017-03.2017
 - Specialist level of Java `SoftGroup` Certification Centre
 
