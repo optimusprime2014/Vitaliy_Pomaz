@@ -16,7 +16,7 @@ Software developer (`Salesforce`)
 |Language|Apex, Javascript, Java|
 |CRMs|Salesforce+ (Apex, LWC, Aura, VF, SOQL/SOSL, Admin tools etc)|
 |App Platforms|Oracle APEX (PL/SQL)|
-|Skills|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
+|Tech|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
 |Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, Redis, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
 |OS|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana (ELK), AWS, Oracle cloud, Google cloud|
