@@ -13,15 +13,15 @@ Software developer (`Salesforce`)
 
 |||
 |---|---|
-|Language|Apex, Javascript, Java|
+|Languages|Apex, Java, Javascript, Python|
 |CRMs|Salesforce+ (Apex, LWC, Aura, VF, SOQL/SOSL, Admin tools etc)|
 |App Platforms|Oracle APEX (PL/SQL)|
-|Tech|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
-|Databases & ORM|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, Redis, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
-|OS|Windows, Linux|
+|Core tech-s|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
+|ORM & Databases|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, Redis, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
+|OSs|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana (ELK), AWS, Oracle cloud, Google cloud|
 |Builders|Maven, Gradle|
-|Other technologies| Angular, Vue, Python, XML, JSON, PHP, VBA, HTML, CSS, bash|
+|Other tech-s| Angular, Vue, XML, JSON, PHP, VBA, HTML, CSS, bash|
 
 
 ## Certificates
