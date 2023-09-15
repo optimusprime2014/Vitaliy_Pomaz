@@ -25,6 +25,9 @@ Software developer (`Salesforce`)
 
 
 ## Certificates
+09.2023
+- `Salesforce` JavaScript Developer I
+
 12.2021
 - `Salesforce` Platform App Builder
 
