@@ -7,16 +7,16 @@
 
 
 ## Position
-Software developer (`Salesforce`)
+Software developer
 
 ## Skills
 
 |||
 |---|---|
-|Languages|Apex, Java, Javascript, Python|
-|CRMs|Salesforce+ (Apex, LWC, Aura, VF, SOQL/SOSL, Admin tools etc)|
+|Languages|Apex Salesforce, Apex Oracle, Java, Javascript, Python|
+|CRMs|Salesforce+ (Apex, LWC, Aura, VF, SOQL/SOSL, Admin tools, Flows etc)|
 |App Platforms|Oracle APEX (PL/SQL)|
-|Core tech-s|OOP, DataStructure, UML, Spring Framework Family, REST API, Android SDK|
+|Core tech-s|OOP, DataStructure, UML, REST API|
 |ORM & Databases|PostgreSQL, Mysql, Oracle, OrientDB, ArangoDB, Redis, DynamoDB, H2, SQLite, Realm, Hibernate, JPA, JOOQ|
 |OSs|Windows, Linux|
 |Support tools|Git, Jenkins, ElasticLogstashKibana (ELK), AWS, Oracle cloud, Google cloud|
@@ -36,10 +36,12 @@ Software developer (`Salesforce`)
 
 
 ## Commercial experience
+* 01.2023-present - **Software Oracle Apex developer**
+  >- development applications (`Oracle Apex`), *Lifecycle-education sphere*
 * 01.2022-present - **Certified Software Salesforce developer**
   >- development applications (`Salesforce`), *Loan-finance sphere*
 * 12.2019-01.2022 - **Software Salesforce developer**
-  >- development applications (`Salesforce`), *healthcare sphere*
+  >- development applications (`Salesforce`), *Healthcare sphere*
 * 04.2018-11.2019 – **Java developer:** (`+DevOps`), *RGS, RGS2, TouchCore*
   >- development and deployment new versions of back-end applications
   >- development and deployment front-side (`angular`) for Admin-panel of game-servers
@@ -61,8 +63,9 @@ Software developer (`Salesforce`)
 
 |Name|Period|Description|Stack|
 |---|---|---|---|
+|Lifecycle-education sphere|01.2023-present|CRM apps|`Oracle Apex, Javascript, CSS, Oracle DB, Oracle Cloud`|
 |Loan-finance sphere|01.2022-present|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
-|healthcare sphere|12.2019-01.2022|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
+|Healthcare sphere|12.2019-01.2022|CRM apps|`Salesforce, Admin-tools, Apex, Javascript, Lightning`|
 |Self-education|11.2019-08.2020|Retraining|`Salesforce+`|
 |TouchCore|07.2019-02.2020|Backend part of online order-kiosk|`Java 8, MySql, Spring MVC, RestFull, JSON`|
 |RGS, RGS2|04.2018-11.2019|Remote game server (development+DevOps)|`Java 8, Spring Boot, JMX, MySQL, MyBatis, AngularJS, Jade, Elasticsearch, REST, jUnit, JSON, XML, HTML, CSS, Git, Zabbix, Grafana, Kibana, Linux (.sh), Google Guava, RxJava`|
